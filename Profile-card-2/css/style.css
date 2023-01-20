@@ -1,0 +1,19 @@
+.card {
+  transition: 0.5s ease !important;
+}
+
+.card:hover {
+  transform: translateY(-30px) !important;
+}
+/* Custom CSS */
+.main-heading {
+  background: linear-gradient(to right, #4c58ff, #da3ef5);
+}
+.profile-img {
+  width: 150px !important;
+  margin-top: -70px;
+}
+.social-icon img {
+  width: 20px;
+  height: 20px;
+}
